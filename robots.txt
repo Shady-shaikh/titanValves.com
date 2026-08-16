@@ -1,0 +1,7 @@
+Sitemap: https://titanflowvalves.com/sitemap.xml
+Sitemap: https://titanflowvalves.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://titanflowvalves.com/sitemap_index.xml

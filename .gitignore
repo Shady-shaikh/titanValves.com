@@ -1,0 +1,18 @@
+# Titan Flow Valves .gitignore
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# IDE / Gemini / Agent Scratch
+.gemini/
+.system_generated/
+scratch/
+browser/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# WordPress Core Uploads backups (if huge)
+# wp-content/uploads/

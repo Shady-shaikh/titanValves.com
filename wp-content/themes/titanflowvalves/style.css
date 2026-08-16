@@ -1,0 +1,17 @@
+/*
+Theme Name: Titan Flow Valves
+Theme URI: https://titanflowvalves.com
+Author: Titan Flow Valves Engineering
+Author URI: https://titanflowvalves.com
+Description: A precision-engineered, high-performance WordPress theme for Titan Flow Valves — premier industrial valves manufacturer, supplier, and exporter in India.
+Version: 2.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: Proprietary
+License URI: https://titanflowvalves.com
+Text Domain: titanflowvalves
+Tags: industrial, engineering, valves, flow-control, responsive-layout, modern-ui, translation-ready
+*/
+
+@import url('assets/css/industrial-theme.css');
